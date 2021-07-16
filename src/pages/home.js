@@ -14,7 +14,7 @@ const About = () => {
         >
             <h1>Bailur Vikram Bhat</h1>
             <br></br>
-            <p>20181CSE0090</p>
+            <p>ID: 20181CSE0090</p>
 
             <br></br>
             <p>6CSE2</p>
@@ -23,7 +23,7 @@ const About = () => {
             <br></br>
             <p>+91 9535676100</p>
             <br></br>
-            
+
 
 
         </div>
