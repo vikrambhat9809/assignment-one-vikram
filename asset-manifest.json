@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment-one-vikram/static/css/main.c98f77ea.chunk.css",
+    "main.js": "/assignment-one-vikram/static/js/main.86e94634.chunk.js",
+    "main.js.map": "/assignment-one-vikram/static/js/main.86e94634.chunk.js.map",
+    "runtime-main.js": "/assignment-one-vikram/static/js/runtime-main.04826133.js",
+    "runtime-main.js.map": "/assignment-one-vikram/static/js/runtime-main.04826133.js.map",
+    "static/js/2.92a37320.chunk.js": "/assignment-one-vikram/static/js/2.92a37320.chunk.js",
+    "static/js/2.92a37320.chunk.js.map": "/assignment-one-vikram/static/js/2.92a37320.chunk.js.map",
+    "static/js/3.4d66d40d.chunk.js": "/assignment-one-vikram/static/js/3.4d66d40d.chunk.js",
+    "static/js/3.4d66d40d.chunk.js.map": "/assignment-one-vikram/static/js/3.4d66d40d.chunk.js.map",
+    "index.html": "/assignment-one-vikram/index.html",
+    "static/css/main.c98f77ea.chunk.css.map": "/assignment-one-vikram/static/css/main.c98f77ea.chunk.css.map",
+    "static/js/2.92a37320.chunk.js.LICENSE.txt": "/assignment-one-vikram/static/js/2.92a37320.chunk.js.LICENSE.txt",
+    "static/media/blogimagetools.3eaee375.jpg": "/assignment-one-vikram/static/media/blogimagetools.3eaee375.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04826133.js",
+    "static/js/2.92a37320.chunk.js",
+    "static/css/main.c98f77ea.chunk.css",
+    "static/js/main.86e94634.chunk.js"
+  ]
+}
